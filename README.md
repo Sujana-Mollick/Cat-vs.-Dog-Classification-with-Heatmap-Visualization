@@ -1,7 +1,7 @@
 # Cat vs Dog Classification with Heatmap Visualization
 
 ## Project Overview
-This project focuses on classifying images of cats and dogs using a machine learning model. Additionally, it includes heatmap visualizations to highlight the areas of the images that the model focuses on during classification.
+This project focuses on classifying images of cats and dogs using a Machine learning model. Additionally, it includes heatmap visualizations to highlight the areas of the images that the model focuses on during classification.
 
 ## Table of Contents
 - Installation
@@ -11,7 +11,6 @@ This project focuses on classifying images of cats and dogs using a machine lear
 - Heatmap Visualization
 - Results
 - Contributing
-- License
 
 ## Installation
 To get started with this project, open the provided Google Colab notebook and run the cells to install the required dependencies.
@@ -23,17 +22,9 @@ To run the classification and generate heatmaps, follow these steps in the Googl
 2. Run all cells sequentially to execute the code.
 
 ## Project Structure
-.
-├── DATA
-│   └── MyDrive
-│       └── Colab Notebooks
-│           ├── train.zip
-│           └── test.zip
-├── DATASET
-│   ├── cat
-│   └── dog
-├── Cat_vs_Dog_Classification_with_Heatmap_Visualization.ipynb
-└── README.md
+
+![image](https://github.com/user-attachments/assets/20ad184b-f216-4bc8-ad97-b145248329b5)
+
 
 ## Model Training
 The model is trained using a convolutional neural network (CNN) on a dataset of cat and dog images. The training process includes data augmentation, model compilation, and fitting the model on the training data.
